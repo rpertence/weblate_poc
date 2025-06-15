@@ -1,7 +1,7 @@
 {
-  "greeting": "Hello! How are you?",
-  "color": "Colour",
-  "favorite": "My favourite colour is blue.",
-  "a": "GB - Text 1",
-  "b": "GB - Text 2"
+    "greeting": "Hello! How are you",
+    "color": "Colour",
+    "favorite": "My favourite colour is blue",
+    "a": "GB - Text 1 - Edição Weblate",
+    "b": "GB - Text 2 - Edição Weblate"
 }
